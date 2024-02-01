@@ -1,4 +1,4 @@
-# Tableau Dashboard for Anti-Civilian Violence Dataset
+# Tableau Dashboard for Anti-Civilian Violence 
 
 ## Brief Explanation
 The dashboard serves as a comprehensive tool for visualizing and analyzing the "Anti-Civilian Violence" dataset from the Armed Conflict Location & Event Data Project (ACLED). It provides interactive and informative visualizations to aid users in understanding global political violence patterns, actor involvement, and the impact on civilian populations.
