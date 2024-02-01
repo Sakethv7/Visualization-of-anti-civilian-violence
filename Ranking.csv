@@ -1,0 +1,163 @@
+REGION,ACTOR1,total_fatalities,Actor_rank
+Northern Africa,Military Forces of Sudan (1989-2019),10377,1
+Northern Africa,GIA: Armed Islamic Group,6171,2
+Northern Africa,Janjaweed,4843,3
+Northern Africa,Unidentified Armed Group (Sudan),2971,4
+Northern Africa,LRA: Lords Resistance Army,2773,5
+Northern Africa,Unidentified Armed Group (Libya),1573,6
+Northern Africa,Operation Unified Protector: NATO Mission in Libya (2011-2011),1467,7
+Northern Africa,Rapid Support Forces,1136,8
+Northern Africa,Lou Nuer Ethnic Militia (Sudan),994,9
+Northern Africa,Militia (Pro-Government),939,10
+North America,Unidentified Gang (Mexico),22713,1
+North America,Unidentified Armed Group (Mexico),15386,2
+North America,CJNG: Jalisco New Generation Cartel,505,3
+North America,Rioters (Mexico),248,4
+North America,Sole Perpetrator (United States),162,5
+North America,Santa Rosa de Lima Cartel,141,6
+North America,CDN: Cartel del Noreste,77,7
+North America,Unidentified Communal Militia (Mexico),73,8
+North America,Sinaloa Cartel,70,9
+North America,La Familia Michoacana Cartel,64,10
+South America,Unidentified Gang and/or Police Militia,10167,1
+South America,Unidentified Armed Group (Colombia),6130,2
+South America,Unidentified Armed Group (Brazil),4352,3
+South America,Unidentified Gang (Brazil),3207,4
+South America,Unidentified Gang and/or Colectivo,993,5
+South America,Police Forces of Venezuela (1999-) FAES: Special Action Forces,729,6
+South America,Unidentified Armed Group (Venezuela),555,7
+South America,Police Forces of Venezuela (1999-),430,8
+South America,Gulf Clan,395,9
+South America,Military Forces of Brazil (2019-2022) Military Police,257,10
+Caribbean,Unidentified Armed Group (Jamaica),933,1
+Caribbean,Unidentified Armed Group (Trinidad and Tobago),771,2
+Caribbean,Unidentified Gang (Haiti),555,3
+Caribbean,Unidentified Armed Group (Puerto Rico),515,4
+Caribbean,Unidentified Armed Group (Haiti),376,5
+Caribbean,Unidentified Gang (Jamaica),289,6
+Caribbean,Unidentified Gang (Trinidad and Tobago),261,7
+Caribbean,Unidentified Gang (Puerto Rico),207,8
+Caribbean,Canaan Gang,140,9
+Caribbean,Baz Gran Grif de Savien Gang,120,10
+Caucasus and Central Asia,Unidentified Armed Group (Afghanistan),3863,1
+Caucasus and Central Asia,Taliban,2838,2
+Caucasus and Central Asia,Islamic State (Afghanistan),1616,3
+Caucasus and Central Asia,Military Forces of Afghanistan (2021-),775,4
+Caucasus and Central Asia,Military Forces of Afghanistan (2014-2021),733,5
+Caucasus and Central Asia,NATO: North Atlantic Treaty Organization,246,6
+Caucasus and Central Asia,Police Forces of Afghanistan (2014-2021) National Directorate of Security,85,7
+Caucasus and Central Asia,Military Forces of Azerbaijan (2003-),76,8
+Caucasus and Central Asia,Military Forces of Artsakh (2007-),75,9
+Caucasus and Central Asia,Afghan and/or NATO Forces,65,10
+Eastern Africa,Military Forces of Ethiopia (1991-2018),6497,1
+Eastern Africa,Al Shabaab,6257,2
+Eastern Africa,Unidentified Armed Group (Somalia),4325,3
+Eastern Africa,Hutu Rebels,3880,4
+Eastern Africa,Lou Clan Militia (South Sudan),3794,5
+Eastern Africa,Military Forces of South Sudan (2011-),3708,6
+Eastern Africa,LRA: Lords Resistance Army,3509,7
+Eastern Africa,Unidentified Armed Group (South Sudan),3009,8
+Eastern Africa,Military Forces of Eritrea (1993-),2587,9
+Eastern Africa,Military Forces of Burundi (1996-2005),2453,10
+Europe,Military Forces of Russia (2000-),4929,1
+Europe,Military Forces of Russia (2000-) Air Force,1171,2
+Europe,Unidentified Military Forces,166,3
+Europe,Military Forces of Ukraine (2019-),128,4
+Europe,Unidentified Armed Group (Ukraine),122,5
+Europe,Wagner Group,56,6
+Europe,Unidentified Armed Group (Russia),42,7
+Europe,Military Forces of Russia (2000-) Navy,38,8
+Europe,Atesh,30,9
+Europe,Unidentified Armed Group (Germany),29,10
+Middle Africa,UNITA: National Union for the Total Independence of Angola,18357,1
+Middle Africa,ADF: Allied Democratic Forces,6091,2
+Middle Africa,LRA: Lords Resistance Army,4483,3
+Middle Africa,Unidentified Armed Group (Democratic Republic of Congo),4068,4
+Middle Africa,Unidentified Armed Group (Angola),2874,5
+Middle Africa,Seleka Militia,1799,6
+Middle Africa,Military Forces of the Democratic Republic of Congo (1997-2001),1494,7
+Middle Africa,Lendu Ethnic Militia (Democratic Republic of Congo),1488,8
+Middle Africa,Military Forces of Angola (1975-),1463,9
+Middle Africa,Military Forces of Cameroon (1982-),1348,10
+Middle East,Islamic State (Iraq),13965,1
+Middle East,Operation Restoring Hope,9561,2
+Middle East,Unidentified Armed Group (Syria),7563,3
+Middle East,Military Forces of Syria (2000-),7298,4
+Middle East,Global Coalition Against Daesh,6202,5
+Middle East,Military Forces of Syria (2000-) Syrian Arab Air Defense Force,4625,6
+Middle East,Islamic State (Syria),3878,7
+Middle East,Military Forces of Israel (2022-),3812,8
+Middle East,Unidentified Armed Group (Iraq),3720,9
+Middle East,Military Forces of Russia (2000-),3449,10
+Oceania,Rioters (Papua New Guinea),45,1
+Oceania,Unidentified Armed Group (Papua New Guinea),29,2
+Oceania,Unidentified Clan Militia (Papua New Guinea),24,3
+Oceania,Police Forces of Papua New Guinea (2019-) Corrective Service,16,4
+Oceania,Pi Pati Clan Militia (Papua New Guinea),15,5
+Oceania,Police Forces of Papua New Guinea (2019-),12,6
+Oceania,Sangu Tribal Militia (Papua New Guinea),11,7
+Oceania,Aiyala Clan Militia (Papua New Guinea),10,8
+Oceania,Het Wara Gang,9,9
+Oceania,Akols Tribal Militia (Papua New Guinea),8,10
+Oceania,Cult Militia (Papua New Guinea),8,10
+Oceania,Unidentified Communal Militia (Papua New Guinea),8,10
+Southern Africa,Rioters (South Africa),1162,1
+Southern Africa,Unidentified Armed Group (South Africa),962,2
+Southern Africa,ZANU-PF: Zimbabwe African National Union-Patriotic Front,180,3
+Southern Africa,Unidentified Armed Group (Lesotho),100,4
+Southern Africa,Rioters (Zimbabwe),95,5
+Southern Africa,Police Forces of South Africa (1994-),92,6
+Southern Africa,Rioters (Zambia),87,7
+Southern Africa,UNITA: National Union for the Total Independence of Angola,85,8
+Southern Africa,Unidentified Armed Group (Zimbabwe),61,9
+Southern Africa,Military Forces of Zimbabwe (1987-2017),55,10
+Central America,Unidentified Armed Group (Honduras),2682,1
+Central America,Unidentified Armed Group (Guatemala),1306,2
+Central America,Unidentified Gang (Honduras),826,3
+Central America,Unidentified Armed Group (El Salvador),702,4
+Central America,Unidentified Gang (El Salvador),669,5
+Central America,Unidentified Gang (Guatemala),557,6
+Central America,MS-13: Mara Salvatrucha,265,7
+Central America,B-18: Barrio-18,211,8
+Central America,Protesters (Nicaragua),199,9
+Central America,Unidentified Armed Group (Belize),155,10
+East Asia,Police Forces of China (2012-),47,1
+East Asia,Police Forces of North Korea (2011-) State Security Department,36,2
+East Asia,Military Forces of North Korea (2011-),36,2
+East Asia,Unidentified Armed Group (China),26,4
+East Asia,Protesters (China),3,5
+East Asia,Police Forces of North Korea (2011-),1,6
+East Asia,Militia (Pro-Government),1,6
+East Asia,Unidentified Armed Group (North Korea),1,6
+East Asia,Unidentified Armed Group (Japan),1,6
+East Asia,Unidentified Armed Group (Mongolia),1,6
+South Asia,Unidentified Armed Group (Pakistan),6225,1
+South Asia,TTP: Tehreek-i-Taliban Pakistan,2748,2
+South Asia,Unidentified Armed Group (Bangladesh),1225,3
+South Asia,Unidentified Armed Group (India),1080,4
+South Asia,Rioters (India),990,5
+South Asia,Rioters (Bangladesh),599,6
+South Asia,CPI (Maoist): Communist Party of India (Maoist),568,7
+South Asia,LeJ: Lashkar-e-Jabbar,430,8
+South Asia,Islamic State (Pakistan),422,9
+South Asia,JuA: Jamaat-ul-Ahrar,341,10
+Southeast Asia,Police Forces of the Philippines (2016-2022),4845,1
+Southeast Asia,Military Forces of Myanmar (2021-),4466,2
+Southeast Asia,Anti-Drug Vigilantes (Philippines),2970,3
+Southeast Asia,Unidentified Armed Group (Myanmar),2087,4
+Southeast Asia,Unidentified Armed Group (Philippines),1653,5
+Southeast Asia,Military Forces of Myanmar (2016-2021),1341,6
+Southeast Asia,Malay Muslim Separatists (Thailand),1318,7
+Southeast Asia,Protesters (Myanmar),383,8
+Southeast Asia,Military Forces of Myanmar (2011-2016),345,9
+Southeast Asia,NPA: New People's Army,292,10
+Western Africa,Boko Haram - Jamaatu Ahli is-Sunnah lid-Dawati wal-Jihad,10050,1
+Western Africa,Fulani Ethnic Militia (Nigeria),8966,2
+Western Africa,Unidentified Armed Group (Nigeria),8875,3
+Western Africa,JNIM: Group for Support of Islam and Muslims,3538,4
+Western Africa,Islamic State (West Africa),3220,5
+Western Africa,Military Forces of Nigeria (1999-2015),2447,6
+Western Africa,Zamfara Communal Militia (Nigeria),1785,7
+Western Africa,Islamic State (West Africa) - Greater Sahara Faction,1720,8
+Western Africa,Islamic State (Sahel),1640,9
+Western Africa,Islamic State (West Africa) and/or Boko Haram - Jamaatu Ahli is-Sunnah lid-Dawati wal-Jihad,1603,10
