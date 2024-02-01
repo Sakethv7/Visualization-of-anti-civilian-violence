@@ -20,8 +20,25 @@ The dashboard serves as a comprehensive tool for visualizing and analyzing the "
 9. What is the distribution of events by event type?
 10. What is the frequency of militant group-induced explosions in Europe?
 
+## Interactivity
+  Controls:
+  1.	Dropdown Menus: Implemented in various sheets, allowing users to select specific countries, regions, or event types for a more focused analysis.
+  2.	Range Selection: Utilized in sheets involving temporal data, enabling users to filter events based on specific years or date ranges.
+  3.	Colour Intensity Filters: Applied in choropleth maps to represent variations, offering an interactive exploration of explosion quantities and intensity.
+  4.	Legend Controls: In charts with legends, users can interactively explore specific event types by toggling them on or off for a clearer visualization.
+
+  Functionality:
+  1.	Dynamic Filtering: Dropdown menus provide users with the flexibility to dynamically filter data based on their preferences, enhancing the specificity of the analysis.
+  2.	Temporal Exploration: Range selection controls allow users to focus on a particular time frame, facilitating a detailed examination of trends before and after significant events such as COVID-19.
+  3.	Geospatial Insight: Colour intensity filters on choropleth maps offer an interactive experience in exploring the frequency of militant group-induced explosions in Europe, with variations in colour     representing different levels of intensity.
+  4.	Event Type Selection: Legends in certain charts enable users to interactively explore specific event types, contributing to a more nuanced understanding of the dataset.
+The incorporation of these interactive elements empowers users to customize their analysis, providing a user-friendly and exploratory experience within the dashboard.
+
+
 
 ## Additional Information
 If you need the dataset, it can be provided via email or Google Cloud link. The original dataset link is mentioned in the submission file.
+
+Mural Link- [Team Mural](https://app.mural.co/t/ift533dv7772/m/ift533dv7772/1699476534844/50dd7e2dc7d0ed3e735ecd922c6964c71cee347a?sender=u3335f695051373ad535c3764)https://app.mural.co/t/ift533dv7772/m/ift533dv7772/1699476534844/50dd7e2dc7d0ed3e735ecd922c6964c71cee347a?sender=u3335f695051373ad535c3764
 Dashboard was published publically, below is the link:
 https://public.tableau.com/app/profile/geeth.petla/viz/shared/X4P5GN5RQ
