@@ -43,4 +43,8 @@ If you need the dataset, it can be provided via email or Google Cloud link. The 
 
 ## Dashboard was published publically, below is the link: https://public.tableau.com/app/profile/geeth.petla/viz/shared/X4P5GN5RQ
 
-## Contributors are myself- Saketh Velidimalla, Geeth Sourabh Petla, Preetam Venkata Paritala, and Sharan Kumar Mogilli
+## Contributors 
+Saketh Velidimalla
+Geeth Sourabh Petla
+Preetam Venkata Paritala
+Sharan Kumar Mogilli
